@@ -9,4 +9,5 @@ Requirements
  - python-sip
  - python-qt5
  - libisoburn
+ - python-requests
  - kernel >4.0 with aufs patch
